@@ -22,6 +22,11 @@ h1 {
     color: #333;
     margin-bottom: 20px;
     text-align: center; /* Centers the title */
+    
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5em; /* Reduces the title size slightly */
+    letter-spacing: -0.05em; /* Tightens the spacing between letters */
+    margin-bottom: 40px; /* Space below the title */
 }
 
 iframe {
