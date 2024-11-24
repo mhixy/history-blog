@@ -51,7 +51,7 @@ img {
 }
 
 figcaption {
-    font-size: 0.9em;
+    font-size: 0.6em;
     color: #777; /* Lighter color to distinguish from main text */
     margin-top: 10px; /* Adds space between the image and caption */
     font-style: italic;
