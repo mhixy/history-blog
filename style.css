@@ -19,13 +19,12 @@ body {
 }
 
 h1 {
-    color: #333;
-    margin-bottom: 20px;
+    color: #433;
     text-align: center; /* Centers the title */
-    
     font-family: 'Playfair Display', serif;
     font-size: 2.5em; /* Reduces the title size slightly */
     letter-spacing: -0.05em; /* Tightens the spacing between letters */
+    margin-top: 20px; /* Space below the title */
     margin-bottom: 40px; /* Space below the title */
 }
 
