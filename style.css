@@ -32,6 +32,7 @@ iframe {
 }
 
 p {
+    text-indent: 2em; /* Indents the first line of each paragraph */
     margin: 10px 0;
     color: #555;
 }
