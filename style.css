@@ -37,6 +37,7 @@ iframe {
 
 p {
     text-indent: 2em; /* Indents the first line of each paragraph */
+    text-align: justify; /* Justifies the text to fill the width */
     margin: 10px 0;
     color: #555;
 }
