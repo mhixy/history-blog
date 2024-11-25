@@ -8,6 +8,10 @@ body {
     align-items: flex-start; /* Content stays at the top */
     min-height: 100vh;
     background-color: #ffdada; /* Soft light background color */
+    -webkit-user-select: none; /* For Chrome, Safari, and Edge */
+    -moz-user-select: none;    /* For Firefox */
+    -ms-user-select: none;     /* For older versions of IE */
+    user-select: none;         /* Standard property */
 }
 
 .content {
